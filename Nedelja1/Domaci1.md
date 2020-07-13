@@ -12,6 +12,7 @@
 3. Sadrzi najmanje 3 sekcije:
     * Osnovne informacije
     * Portfolio (Slike projekata, klikom vodi do njih (trenutno samo ova portfolio strana, ali mozete ubaciti placeholder-e))
+    * Kontakt
 4. Navigacija , koja mora biti vidljiva uvek: 
     1. Sadrzi linkove ka svakoj sekciji (kada se klikne , skroluje do odgovarajuce sekcije)
 
