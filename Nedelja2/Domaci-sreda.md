@@ -16,10 +16,10 @@
     3. Ако купац нема довољно новца, исписати поруку: "Немате довољно новца", а затим написати тренутно стање (остаје исто)
     4. Ако има довољно новца, исписати: "Успешно сте купили производ", а затим исписати тренутно стање (сада измењено)
 
-*Pomocni linkovi*
-    1. https://www.w3schools.com/js/js_comparisons.asp
-    2. https://www.w3schools.com/js/js_if_else.asp
-    3. https://www.w3schools.com/js/js_loop_while.asp
+*Pomocni linkovi* 
+    - https://www.w3schools.com/js/js_comparisons.asp
+    - https://www.w3schools.com/js/js_if_else.asp
+    - https://www.w3schools.com/js/js_loop_while.asp
 
 ## Други дан:
 
